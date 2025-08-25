@@ -4,56 +4,93 @@
 
 **Pasword**: 99nights
 
-**A powerful and feature-rich script for the Roblox game "99 ночей в лесу" (99 Nights in the Forest) designed to enhance your gameplay experience.**
+<div align="center">
+https://img.shields.io/badge/Version-2.1.0-blueviolet?style=for-the-badge&logo=roblox
+https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge&logo=shield
+https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge&logo=opensourceinitiative
 
-**✨ Features**
-**Player ESP** - 🟢 Visual indicators showing player positions, distances, and information
+The most advanced gameplay enhancement tool for 99 Nights in the Forest experience
 
-**Item ESP** - 🟢 Highlight important items and resources in the game world
+📖 Documentation • ⚡ Features • 🚀 Installation • ⚠️ Safety
 
-**Auto-Farm** - 🟢 Automatically collect resources and complete tasks
+</div>
+✨ Feature Overview
+🎯 Visual Enhancements
+Feature	Description	Status
+Player ESP	See players through walls with distance indicators	✅ Working
+Item ESP	Highlight all collectible items and resources	✅ Working
+Monster ESP	Detect hostile entities with colored outlines	✅ Working
+Tracers	Visual lines pointing to players and entities	✅ Working
+Box ESP	2D/3D boxes around important game objects	✅ Working
+⚡ Movement Modifications
+Feature	Description	Risk Level
+Speed Hack	Adjustable 1.5x-10x normal speed	🔴 High
+Jump Power	Enhanced jumping ability	🟡 Medium
+Fly/Noclip	Phase through obstacles	🔴 High
+Anti-Stun	Prevent movement impairment	🟢 Low
+Auto-Sprint	Automatic sprint toggle	🟢 Low
+🔫 Combat Assistance
+<div align="center">
+https://img.shields.io/badge/Aimbot-Fully_Functional-green?style=flat-square
+https://img.shields.io/badge/Silent_Aim-Undetectable-brightgreen?style=flat-square
+https://img.shields.io/badge/Trigger_Bot-Active-blue?style=flat-square
 
-**Speed Hack** - 🟢 Move faster than normal players
+</div>
+Wallbang - See and shoot through walls
 
-**Jump Power** - 🟢 Enhanced jumping ability
+No Recoil - Eliminate weapon kickback
 
-**God Mode** - 🟢 Temporary invincibility (use with caution)
+Auto-Reload - Automatic weapon management
 
-**Teleportation** - 🟢 Quick travel to specific locations or players
+Target Prediction - Advanced movement prediction
 
-**Aimbot** - 🟢 Improved targeting for combat situations
+🛡️ Protection & Utility
+Feature	Description	Recommended
+God Mode	Temporary invincibility	❌ Use Sparingly
+Auto-Farm	Automated resource collection	✅ Recommended
+Inventory Editor	Modify items and resources	🟡 Moderate Use
+Teleportation	Waypoint system	✅ Recommended
+Night Vision	Enhanced visibility	✅ Recommended
+🚀 Installation Guide
+Prerequisites
+Roblox installed and updated
 
-**Custom GUI** - 🟢 User-friendly interface for toggling features
+Compatible executor (Synapse X, Script-Ware, Krnl)
 
-**🚀 Installation**
-Download and install a Roblox executor/exploit (such as Synapse X, Krnl, or others)
+Windows 10/11 system
 
-Launch Roblox and join "99 ночей в лесу"
+Stable internet connection
 
-Execute your chosen exploit
+Quick Installation
+lua
+-- Auto-Install Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/your-repo/main/loader.lua"))()
+Manual Installation
+Download the latest release from Releases Page
 
-Copy and paste the script code into the executor
+Inject your preferred executor
 
-Press execute/attach to run the script
+Execute the script file
 
-**📋 Usage**
-After executing the script, a GUI interface will appear on your screen with toggle options for each feature:
+Configure settings through the GUI
 
-Use the checkboxes to enable/disable specific hacks
-
-Adjust sliders for values like speed, jump power, etc.
-
-Use hotkeys if available (documented in the GUI)
-
-Be discreet to avoid detection
-
-
-**🔧 Compatibility**
-Game: 99 ночей в лесу (99 Nights in the Forest)
-
-Roblox Version: Updated regularly to match current game version
-
-Executors: Compatible with most modern Roblox exploits
-
-**📞 Support**
-If you have any questions or need help, please open an issue in the repository.
+⚙️ Configuration Settings
+Performance Optimization
+lua
+-- Recommended Settings for Low-End PCs
+ESP.MaxDistance = 500
+ESP.UpdateRate = 0.5
+Render.Quality = "Low"
+Safety Configuration
+lua
+-- Anti-Cheat Evasion Settings
+Safety.StreamerMode = true
+Safety.Randomization = true
+Safety.AutoDisableKey = "F12"
+⚠️ Safety Guide
+Risk Assessment Table
+Feature	Detection Risk	Ban Probability	Recommendation
+God Mode	🔴 High	🔴 High	Avoid
+Speed Hack	🟡 Medium	🟡 Medium	Use carefully
+ESP Features	🟢 Low	🟢 Low	Safe to use
+Aimbot	🟡 Medium	🟡 Medium	Use moderately
